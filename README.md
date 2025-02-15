@@ -1,6 +1,6 @@
 # blog-app-using-django
 Blog App
-The Blog App is a Django-based web application that allows users to read, write, and manage articles.
+The Blog App is a Django-based web application that allows users to read, write, and manage products.
 
 Features:
 User Authentication – Register, log in, and manage user profiles.
